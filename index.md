@@ -27,9 +27,9 @@ Some of the things I do in my free time include:
 4. Making lots of pizzas
 
 ## Goals for this quarter
-[ ] Finish reading *The New Jim Crow*
-[ ] Secure an internship
-[ ] Make more pizzas
+-[ ] Finish reading *The New Jim Crow*
+-[ ] Secure an internship
+-[ ] Make more pizzas
 
 ## Links
 
