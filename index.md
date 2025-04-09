@@ -37,6 +37,6 @@ Some of the things I do in my free time include:
 
 [Link to the Ghandi Analysis:](#ghandi-analysis).
 
-[View My README file](./README.md)
+[My README file](./README.md)
 
 
